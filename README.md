@@ -2,4 +2,4 @@
 
 A simple stopwatch created JavaScript with react-native 0.40
 
-![Alt text](/Screenshots/screenshot.png?raw=true "screenshot")
+<img src="http://url.to/image.png" align="left" height="48" width="300" >
